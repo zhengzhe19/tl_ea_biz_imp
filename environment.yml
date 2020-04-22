@@ -1,0 +1,10 @@
+name: cbo-env
+channels:
+  - keiserlab
+dependencies:
+  - python=2.7
+  - pandas
+  - numpy
+  - configargparse
+  - pathlib
+  - mmh3
